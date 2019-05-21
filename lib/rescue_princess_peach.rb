@@ -4,7 +4,6 @@ def rescue_princess_peach
 end
 
 
-
 rescue_princess_peach
 puts status
 
